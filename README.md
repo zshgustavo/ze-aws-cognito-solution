@@ -1,1 +1,0 @@
-# ze-aws-cognito-solution
